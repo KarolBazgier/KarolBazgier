@@ -9,8 +9,8 @@
 
 - 🤝 Seeking to **find first job in Java**
 
-<h3 align="left">Connect with me:[![Email](https://img.icons8.com/material-outlined/24/000000/email.png)](mailto:karol5108@gmail.com) 
-karol5108@gmail.com</h3>
+<h3 align="left">Connect with me:</h3>
+<img src= https://img.icons8.com/material-outlined/24/000000/email.png alt="azure" width="40" height="40"/> </a>
 <p align="left">
 </p>
 
